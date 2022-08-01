@@ -41,5 +41,5 @@ The scheduler will now scap channel videos every 20 minutes.
 **Note:** The given commands will not run celery in daemon mode. To run scheduler in daemon mode,
 you can run the command using `--daemon` flag. For more information, check out celery official documentation.
 
-#Development
+# Development
 To run unit tests, run the command `python manage.py test`.
