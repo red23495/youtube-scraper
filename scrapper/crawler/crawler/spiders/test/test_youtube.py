@@ -2,7 +2,7 @@ import json
 import unittest
 from ..youtube import YoutubeSpider
 import os
-from ... import settings
+from django.conf import settings
 
 
 class YoutubeTest(unittest.TestCase):
