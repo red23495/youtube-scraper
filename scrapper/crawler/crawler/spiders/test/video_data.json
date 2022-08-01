@@ -1,0 +1,323 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "ecVI7PeypTiAdRkUb6CG2R5YPao",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "9Tpbg2Ow3m6xZ7G-xk-tOEotUWU",
+      "id": "hx26nvB65B8",
+      "snippet": {
+        "publishedAt": "2020-11-27T18:38:53Z",
+        "channelId": "UCRWXAQsN5S3FPDHY4Ttq1Xg",
+        "title": "OS development using the Linux kernel - Memory Allocation (Part 4)",
+        "description": "This video shows you how to start developing your own OS using Linux for your kernel.  Not the same as \"Linux from scratch\", this focuses on developing your own, at the low level of course!\n\nThis is the fourth video in the series which will cover expanding our simple shell and allocating, writing and reading memory, I hope you enjoy and please comment with any questions you have.\n\nDiscord: https://discord.gg/fyFYABCVMX\nGithub: https://github.com/rockytriton/LLD\nReddit: https://www.reddit.com/r/LowLevelDevel\nDonate (Paypal/Venmo):  rockytriton75@gmail.com\n\nHere's a link to the video series playlist:\nhttps://www.youtube.com/playlist?list=PLVxiWMqQvhg8ZisiOBLAVkhLOYCkzTst0\n\nSource code:\nhttps://github.com/rockytriton/LLD/tree/main/linux_os/part4",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hx26nvB65B8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hx26nvB65B8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hx26nvB65B8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hx26nvB65B8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hx26nvB65B8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Low Level Devel",
+        "tags": [
+          "linux",
+          "os",
+          "osdev",
+          "development",
+          "c programming",
+          "assembly",
+          "syscall",
+          "syscalls",
+          "brk"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "OS development using the Linux kernel - Memory Allocation (Part 4)",
+          "description": "This video shows you how to start developing your own OS using Linux for your kernel.  Not the same as \"Linux from scratch\", this focuses on developing your own, at the low level of course!\n\nThis is the fourth video in the series which will cover expanding our simple shell and allocating, writing and reading memory, I hope you enjoy and please comment with any questions you have.\n\nDiscord: https://discord.gg/fyFYABCVMX\nGithub: https://github.com/rockytriton/LLD\nReddit: https://www.reddit.com/r/LowLevelDevel\nDonate (Paypal/Venmo):  rockytriton75@gmail.com\n\nHere's a link to the video series playlist:\nhttps://www.youtube.com/playlist?list=PLVxiWMqQvhg8ZisiOBLAVkhLOYCkzTst0\n\nSource code:\nhttps://github.com/rockytriton/LLD/tree/main/linux_os/part4"
+        }
+      },
+      "statistics": {
+        "viewCount": "1592",
+        "likeCount": "53",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/hx26nvB65B8\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "YETnwmZMmwov5KTfIqBVX1e526o",
+      "id": "I4pMNYhuNZ0",
+      "snippet": {
+        "publishedAt": "2020-11-25T23:25:41Z",
+        "channelId": "UCRWXAQsN5S3FPDHY4Ttq1Xg",
+        "title": "Linux From Scratch - Simple Packaging and Installation Method",
+        "description": "This video shows you how create a simple packaging and installation method for your Linux From Scratch (LFS) system.\n\nIf you are not familiar with building a Linux system from scratch, here is a link to a great resource on the topic:\nhttp://www.linuxfromscratch.org/\n\nDiscord: https://discord.gg/fyFYABCVMX\nGithub: https://github.com/rockytriton/LLD\nReddit: https://www.reddit.com/r/LowLevelDevel\nDonate (Paypal/Venmo):  rockytriton75@gmail.com\n\nHere is a link to the code used in the video:\nhttps://github.com/rockytriton/Pullinux/tree/1.1.0/scripts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I4pMNYhuNZ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I4pMNYhuNZ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I4pMNYhuNZ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I4pMNYhuNZ0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I4pMNYhuNZ0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Low Level Devel",
+        "tags": [
+          "linux",
+          "bash",
+          "lfs",
+          "linux from scratch",
+          "packaging",
+          "installation"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Linux From Scratch - Simple Packaging and Installation Method",
+          "description": "This video shows you how create a simple packaging and installation method for your Linux From Scratch (LFS) system.\n\nIf you are not familiar with building a Linux system from scratch, here is a link to a great resource on the topic:\nhttp://www.linuxfromscratch.org/\n\nDiscord: https://discord.gg/fyFYABCVMX\nGithub: https://github.com/rockytriton/LLD\nReddit: https://www.reddit.com/r/LowLevelDevel\nDonate (Paypal/Venmo):  rockytriton75@gmail.com\n\nHere is a link to the code used in the video:\nhttps://github.com/rockytriton/Pullinux/tree/1.1.0/scripts"
+        }
+      },
+      "statistics": {
+        "viewCount": "1286",
+        "likeCount": "36",
+        "favoriteCount": "0",
+        "commentCount": "10"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/I4pMNYhuNZ0\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "uQohhvG8UjjVbCC2eJcMFq_eF9I",
+      "id": "4jEMgBjKh8k",
+      "snippet": {
+        "publishedAt": "2020-11-22T01:50:17Z",
+        "channelId": "UCRWXAQsN5S3FPDHY4Ttq1Xg",
+        "title": "OS development using the Linux kernel - Shell (Part 3)",
+        "description": "This video shows you how to start developing your own OS using Linux for your kernel.  Not the same as \"Linux from scratch\", this focuses on developing your own, at the low level of course!\n\nThis is the third video in the series which will cover creating a simple shell, I hope you enjoy and please comment with any questions you have.\n\nDiscord: https://discord.gg/fyFYABCVMX\nGithub: https://github.com/rockytriton/LLD\nReddit: https://www.reddit.com/r/LowLevelDevel\nDonate (Paypal/Venmo):  rockytriton75@gmail.com\n\nI've created a subreddit for this channel as well where I will post any video updates:\nhttps://www.reddit.com/r/LowLevelDevel\n\nHere's a link to the video series playlist:\nhttps://www.youtube.com/playlist?list=PLVxiWMqQvhg8ZisiOBLAVkhLOYCkzTst0\n\nSource code:\nhttps://github.com/rockytriton/LLD/tree/main/linux_os/part3",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4jEMgBjKh8k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4jEMgBjKh8k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4jEMgBjKh8k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4jEMgBjKh8k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4jEMgBjKh8k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Low Level Devel",
+        "tags": [
+          "linux",
+          "os",
+          "osdev",
+          "development",
+          "c programming",
+          "assembly"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "OS development using the Linux kernel - Shell (Part 3)",
+          "description": "This video shows you how to start developing your own OS using Linux for your kernel.  Not the same as \"Linux from scratch\", this focuses on developing your own, at the low level of course!\n\nThis is the third video in the series which will cover creating a simple shell, I hope you enjoy and please comment with any questions you have.\n\nDiscord: https://discord.gg/fyFYABCVMX\nGithub: https://github.com/rockytriton/LLD\nReddit: https://www.reddit.com/r/LowLevelDevel\nDonate (Paypal/Venmo):  rockytriton75@gmail.com\n\nI've created a subreddit for this channel as well where I will post any video updates:\nhttps://www.reddit.com/r/LowLevelDevel\n\nHere's a link to the video series playlist:\nhttps://www.youtube.com/playlist?list=PLVxiWMqQvhg8ZisiOBLAVkhLOYCkzTst0\n\nSource code:\nhttps://github.com/rockytriton/LLD/tree/main/linux_os/part3"
+        }
+      },
+      "statistics": {
+        "viewCount": "2215",
+        "likeCount": "77",
+        "favoriteCount": "0",
+        "commentCount": "6"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/4jEMgBjKh8k\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "lEykAD61FB3FP94RX1usp2tGpOE",
+      "id": "YiqqS6p62rU",
+      "snippet": {
+        "publishedAt": "2020-11-12T05:10:45Z",
+        "channelId": "UCRWXAQsN5S3FPDHY4Ttq1Xg",
+        "title": "OS development using the Linux kernel - Shared Lib (Part 2)",
+        "description": "NOTE: One thing I forgot to mention in this video, for shared libraries to work, you need the dynamic linker, you can copy it from /lib64/ld-linux-x86-64.so.2 and put it in your os's lib64 directory, for example: /mnt/myos/lib64/ld-linux-x86-64.so.2\n\nThis video shows you how to start developing your own OS using Linux for your kernel.  Not the same as \"Linux from scratch\", this focuses on developing your own, at the low level of course!\n\nThis is the second video in the series which will cover creating shared system libraries, I hope you enjoy and please comment with any questions you have.\n\nDiscord: https://discord.gg/fyFYABCVMX\nGithub: https://github.com/rockytriton/LLD\nReddit: https://www.reddit.com/r/LowLevelDevel\nDonate (Paypal/Venmo):  rockytriton75@gmail.com\n\nHere's a link to the first video in the series:\nhttps://www.youtube.com/watch?v=7yE_WafMOVI\n\nSource code:\nhttps://github.com/rockytriton/LLD/tree/main/linux_os/part2",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YiqqS6p62rU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YiqqS6p62rU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YiqqS6p62rU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YiqqS6p62rU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YiqqS6p62rU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Low Level Devel",
+        "tags": [
+          "linux",
+          "os",
+          "osdev",
+          "development",
+          "c programming",
+          "assembly"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "OS development using the Linux kernel - Shared Lib (Part 2)",
+          "description": "NOTE: One thing I forgot to mention in this video, for shared libraries to work, you need the dynamic linker, you can copy it from /lib64/ld-linux-x86-64.so.2 and put it in your os's lib64 directory, for example: /mnt/myos/lib64/ld-linux-x86-64.so.2\n\nThis video shows you how to start developing your own OS using Linux for your kernel.  Not the same as \"Linux from scratch\", this focuses on developing your own, at the low level of course!\n\nThis is the second video in the series which will cover creating shared system libraries, I hope you enjoy and please comment with any questions you have.\n\nDiscord: https://discord.gg/fyFYABCVMX\nGithub: https://github.com/rockytriton/LLD\nReddit: https://www.reddit.com/r/LowLevelDevel\nDonate (Paypal/Venmo):  rockytriton75@gmail.com\n\nHere's a link to the first video in the series:\nhttps://www.youtube.com/watch?v=7yE_WafMOVI\n\nSource code:\nhttps://github.com/rockytriton/LLD/tree/main/linux_os/part2"
+        }
+      },
+      "statistics": {
+        "viewCount": "3094",
+        "likeCount": "115",
+        "favoriteCount": "0",
+        "commentCount": "22"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/YiqqS6p62rU\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "evlc11O5AK8X9Yp2uPTsKbON7hI",
+      "id": "7yE_WafMOVI",
+      "snippet": {
+        "publishedAt": "2020-11-11T05:11:50Z",
+        "channelId": "UCRWXAQsN5S3FPDHY4Ttq1Xg",
+        "title": "OS development using the Linux kernel - Getting Started (Part 1)",
+        "description": "This video shows you how to start developing your own OS using Linux for your kernel.  Not the same as \"Linux from scratch\", this focuses on developing your own, at the low level of course!\n\nThis is the first video in the series, I hope you enjoy and please comment with any questions you have.\n\nDiscord: https://discord.gg/fyFYABCVMX\nGithub: https://github.com/rockytriton/LLD\nReddit: https://www.reddit.com/r/LowLevelDevel\nDonate (Paypal/Venmo):  rockytriton75@gmail.com\n\nI've created a subreddit for this channel as well where I will post any video updates:\nhttps://www.reddit.com/r/LowLevelDevel\n\nSource code:\nhttps://github.com/rockytriton/LLD/tree/main/linux_os/part1",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7yE_WafMOVI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7yE_WafMOVI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7yE_WafMOVI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7yE_WafMOVI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7yE_WafMOVI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Low Level Devel",
+        "tags": [
+          "linux",
+          "os",
+          "osdev",
+          "development",
+          "c programming",
+          "assembly"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "OS development using the Linux kernel - Getting Started (Part 1)",
+          "description": "This video shows you how to start developing your own OS using Linux for your kernel.  Not the same as \"Linux from scratch\", this focuses on developing your own, at the low level of course!\n\nThis is the first video in the series, I hope you enjoy and please comment with any questions you have.\n\nDiscord: https://discord.gg/fyFYABCVMX\nGithub: https://github.com/rockytriton/LLD\nReddit: https://www.reddit.com/r/LowLevelDevel\nDonate (Paypal/Venmo):  rockytriton75@gmail.com\n\nI've created a subreddit for this channel as well where I will post any video updates:\nhttps://www.reddit.com/r/LowLevelDevel\n\nSource code:\nhttps://github.com/rockytriton/LLD/tree/main/linux_os/part1"
+        }
+      },
+      "statistics": {
+        "viewCount": "19718",
+        "likeCount": "552",
+        "favoriteCount": "0",
+        "commentCount": "54"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/7yE_WafMOVI\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 5,
+    "resultsPerPage": 5
+  }
+}

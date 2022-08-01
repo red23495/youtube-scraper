@@ -1,0 +1,8 @@
+Scrapy
+Django
+Celery
+mysqlclient
+redis
+django-rest-framework
+django-filter
+python-dotenv
